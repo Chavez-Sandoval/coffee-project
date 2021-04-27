@@ -7,3 +7,10 @@ td, th {
     border: 1px solid black;
     padding: 5px 10px;
 }
+
+body {
+    /*background-image: url("img/coffee_machine.jpeg");*/
+    background-repeat: no-repeat;
+    background: linear-gradient(to right, transparent, lightgrey);
+    background-size: cover;
+}
